@@ -1,3 +1,5 @@
+//buy and sell stockes
+
 #include<iostream>
 using namespace std;
 
